@@ -3,5 +3,5 @@ module.exports = defineConfig({
   transpileDependencies: true
 })
 module.exports = {
-  publicPath:'/cw3group/'
+  publicPath: '/cw3group/'
 }
