@@ -44,7 +44,7 @@
             <h2>Add Data</h2>
             <div class="form-group">
                 <label for="topic"><b>Topic</b>:
-                    <input class="form-group" type="text" v-model="data.toPostData.topic">
+                    <input class="form-group" type="text" v-model="toPostData.topic">
                 </label>
                 <label for="topic"><b>Location</b>:
                     <input class="form-group" type="text" v-model="toPostData.location">
